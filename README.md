@@ -5,3 +5,5 @@ Here are my (Crypto, Misc) Writeups for JISCTF hosted by Technawi. Overall, my t
 [Stages](https://github.com/csn3rd/JISCTFWriteups/blob/master/Stages.md)
 
 [Not that easy!!](https://github.com/csn3rd/JISCTFWriteups/blob/master/Not%20that%20easy.md)
+
+[Too Secret](https://github.com/csn3rd/JISCTFWriteups/blob/master/Too%20Secret.md)
