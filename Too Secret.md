@@ -1,6 +1,6 @@
 # Too Secret Writeup
 
-This problem is worth 250 points in the Misc category. This was one of the tougher challenges in the whole cmpetition with only 5% of teams being able to solve it. I was the 7th to solve this challenge.
+This problem is worth 250 points in the Misc category. This was one of the tougher challenges in the whole competition with only 5% of teams being able to solve it. I was the 7th to solve this challenge.
 
 ![](https://github.com/csn3rd/JISCTFWriteups/blob/master/Screen%20Shot%202020-11-21%20at%203.23.03%20PM.png)
 
