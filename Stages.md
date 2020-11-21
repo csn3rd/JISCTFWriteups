@@ -1,4 +1,4 @@
-# Not that easy!! Writeup
+# Stages Writeup
 
 This problem is worth 200 points in the "Crypto and Stego" category. This was one of the tougher challenges in the whole cmpetition with only 8% of teams being able to solve it. I was the 14th to solve this challenge.
 
