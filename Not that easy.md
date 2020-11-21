@@ -2,7 +2,7 @@
 
 This problem is worth 400 points in the "Crypto and Stego" category. This was one of the least solved challenges in the whole cmpetition with only 2% of teams being able to solve it. I was the second to solve this challenge.
 
-![]()
+![](https://github.com/csn3rd/JISCTFWriteups/blob/master/Screen%20Shot%202020-11-21%20at%2012.44.35%20PM.png)
 
 ## Problem Statement:
 Not that easy, only fives!!
@@ -16,7 +16,7 @@ TFTTTTFFTFTTTTFFTTTFFTTFTTFFFFTFTTTFTTTFTFFFFFTFFFTFFFTFTFTTFFTFTTTFTTTFTFFFFFTF
 
 Taking a look at the ciphertext provided in my_data.dat, we recognize that there are only two characters, T and F. So, let's convert to binary and see if we get any notable results. As a reference, here is the conversion chart for the standard printable characters to their binary, octal, hex, and decimal representations.
 
-![]()
+![](https://github.com/csn3rd/JISCTFWriteups/blob/master/ascii_table.png)
 
 We notice that each character in binary representation must have a 0 in the first bit position. So, let's convert T to 0 and F to 1.
 
@@ -52,7 +52,7 @@ When we decode it from base64, we get this string that looks like it's in binary
 
 Another cipher in which there are 2 characters is baconian cipher. Here is the conversion chart for reference.
 
-![]()
+![](https://github.com/csn3rd/JISCTFWriteups/blob/master/bacon_table.png)
 
 When we decode our ciphertext, we get `BACONCIPHERISNOTGOODTOENCRYPTDATA`, which is our flag.
 
